@@ -3,5 +3,5 @@
 Здесь за создание "резиновости" отвечает media.
 Для создания сеток используется flex, grid
 Для просмотра проекта в браузере не требуются дополнительные действия.
-Сылка на GitHub Pages: 
+Сылка на GitHub Pages:  https://marseliine.github.io/russian-travel/index.html
 
