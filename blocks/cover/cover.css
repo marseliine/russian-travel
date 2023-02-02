@@ -15,33 +15,21 @@
 }
 @media (max-width: 800px) {
   .cover {
-    max-width: 100%;
     min-height: 500px;
-    margin: 0;
-    padding: 0;
   }
 }
 @media (max-width: 770px) {
   .cover {
-    max-width: 100%;
     min-height: 480px;
-    margin: 0;
-    padding: 0;
   }
 }
 @media (max-width: 600px) {
   .cover {
-    max-width: 100%;
     min-height: 300px;
-    margin: 0;
-    padding: 0;
   }
 }
 @media (max-width: 320px) {
   .cover {
-    max-width: 100%;
     min-height: 200px;
-    margin: 0;
-    padding: 0;
   }
 }
