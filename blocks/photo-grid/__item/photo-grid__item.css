@@ -1,0 +1,8 @@
+.photo-grid__item {
+  background-size: contain;
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+  aspect-ratio: 4/3;
+}
