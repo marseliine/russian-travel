@@ -1,28 +1,22 @@
 .lead__image {
-  width: 100%;
-  justify-content: center;
-  margin: 64px auto 8px;
+    width: 100%;
+    justify-content: center;
+    margin: 64px auto 8px;
 }
 @media (max-width: 1039px) {
-  .lead__image {
-    margin-top: 56px;
-  }
+    .lead__image {
+        margin-top: 56px;
+    }
 }
 
 @media (max-width: 425px) {
-  .lead__image {
-    margin-top: 40px;
-  }
+    .lead__image {
+        margin-top: 40px;
+    }
 }
-@media screen and (max-width: 610px) {
-  .lead__image {
-    left: 0;
-  }
-}
+
 @media screen and (max-width: 330px) {
-  .lead__image {
-    max-width: 100%;
-    left: -2px;
-    top: 290px;
-  }
+    .lead__image {
+        max-width: 100%;
+    }
 }
